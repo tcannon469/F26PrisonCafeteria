@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Levels/MainGame.umap",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Materials/M_NewMat.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Input/IMC_MouseFlick.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Input/Actions/IA_FlickChange.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Input/IMC_MouseLook.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/UI/Reticle.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/BP_FoodController.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/Plate.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/Tray00.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/Plate_Mat.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/BP_Plate.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/PlateBP.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/Brush.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/BP_PlateCanvas.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/UI/FoodCanvas.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/Tray00_Mat.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/Tray04.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/CanvasFoodDrawing.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/M_CanvasFoodDrawing.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/M_Score.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/U_FoodScreen.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/Brush_Widget.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/pngtree-halloween-hand-claw-png-image_10063796.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/Cursor/CLAW.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/CanvasFoodDrawing_Mat.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/Blueprints/NewMaterial.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/Canvas.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/Tray00.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/Brush.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/CanvasBP.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/IA_Food.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Input/IMC_Default.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/Food.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/FirstPerson/FoodPaint/InvisibleMaterial.uasset",
+				"C:/Users/tiocw/Documents/Unreal Projects/PrisonCafeteriaREDUX/Content/Levle/MainGame.umap"
+			]
+		}
+	]
+}
