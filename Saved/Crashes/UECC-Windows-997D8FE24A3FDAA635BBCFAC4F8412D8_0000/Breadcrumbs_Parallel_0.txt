@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - NodeAndClusterCull
+ - NoOcclusionPass
+ - Nanite::DrawGeometry
+ - RenderGraphExecute - /HitProxies
+ - SceneRender - HitProxies
+ - Frame 189236
